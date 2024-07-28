@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=DnA-IntRicate&title=-Issues,-PullRequest,-Reviews&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Hi there 👋
 - Awesome README coming soon...
 <!--
