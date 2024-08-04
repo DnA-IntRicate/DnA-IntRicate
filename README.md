@@ -27,6 +27,7 @@ I'm Adam, a *computer engineering student* at [UCT](https://www.uct.ac.za/), *fr
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DnA-IntRicate&show_icons=true&theme=radical">
+    <img src="https://streak-stats.demolab.com?user=DnA-IntRicate&theme=radical&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
