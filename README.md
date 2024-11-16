@@ -21,7 +21,7 @@ I'm Adam, a *computer engineering student* at the [University of Cape Town](http
 ![OtherTools](https://go-skill-icons.vercel.app/api/icons?i=unity,unrealengine,blender,photoshop,premiere,markdown,yaml&theme=dark)
 
 ### Operating Systems
-![OperatingSystems](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,kali,debian,ubuntu,raspberrypi&theme=dark)
+![OperatingSystems](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,kali,debian,ubuntu,raspberrypi&theme=dark)
 
 ---
 
