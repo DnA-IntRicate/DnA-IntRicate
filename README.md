@@ -12,7 +12,7 @@ I'm Adam, a *computer engineering student* at the [University of Cape Town](http
 
 ## My Tech Stack
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,dotnet,python,java,go,lua,mysql,yaml&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,dotnet,python,java,go,lua,mysql,yaml,json&theme=dark)
 
 ### Dev Tools
 ![DevTools](https://go-skill-icons.vercel.app/api/icons?i=git,bash,wsl,terminal,powershell,visualstudio,vscode,vim,neovim,cmake,gradle,maven,androidstudio,virtualbox&theme=dark)
