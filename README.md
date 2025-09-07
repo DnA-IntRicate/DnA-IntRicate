@@ -15,7 +15,7 @@ I'm Adam, a *computer engineering student* at the [University of Cape Town](http
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,dotnet,python,java,go,lua,mysql,mariadb,yaml,json&theme=dark)
 
 ### Dev Tools
-![DevTools](https://go-skill-icons.vercel.app/api/icons?i=git,bash,wsl,terminal,powershell,visualstudio,vscode,vim,neovim,cmake,gradle,maven,androidstudio,virtualbox,jupyter,matplotlib,numpy,pandas,scikitlearn&theme=dark)
+![DevTools](https://go-skill-icons.vercel.app/api/icons?i=git,docker,bash,wsl,terminal,powershell,visualstudio,vscode,vim,neovim,cmake,gradle,maven,androidstudio,virtualbox,jupyter,matplotlib,numpy,pandas,scikitlearn&theme=dark)
 
 ### Other Tools and Environments
 ![OtherTools](https://go-skill-icons.vercel.app/api/icons?i=unity,blender,audacity,photoshop,premiere,obs,canva,word,excel,powerpoint,onenote,tmux,burpsuite,wireshark&theme=dark)
