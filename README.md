@@ -3,11 +3,12 @@
 ---
 
 # [Hello There!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
-I'm Adam, a *computer engineering student* at the [University of Cape Town](https://www.uct.ac.za/), *freelance software developer* and *hobbyist game engine developer*. I specialize in C++, graphics programming, physics and databases. I am also proficient in Linux systems, servers, ethical hacking, networking and electronics.
+I'm Adam, a *computer engineering student* at the [University of Cape Town](https://www.uct.ac.za/), *game engine developer* and *the Founder & Team-Lead at Intricate Dev Team*. I specialize in C++, graphics programming, physics and databases. I am also proficient in Linux systems, servers, ethical hacking, networking and electronics.
 
-> I am currently working on the **Intricate Engine**, a C++ game engine that I started writing from scratch in 2021 that currently features:
+> At Intricate, we are currently working on the **Intricate Engine**, a C++ game engine that I started writing from scratch in 2021 that currently features:
 > - A [Vulkan](https://www.vulkan.org/) and [DirectX 11](https://en.wikipedia.org/wiki/Direct3D) Renderer
-> - C# Scripting with [Mono](https://en.wikipedia.org/wiki/Mono_(software))
+> - Full .NET runtime integration and C# scripting using [.NET CoreCLR](https://dotnet.microsoft.com/en-us/)
+> - A hybrid Editor written in C++ & C#
 > - 3D Physics with [NVIDIA PhysX](https://en.wikipedia.org/wiki/PhysX)
 
 ## My Tech Stack
@@ -39,3 +40,7 @@ I'm Adam, a *computer engineering student* at the [University of Cape Town](http
 <p align="center">
     <img width=450 height=450 src="Images/Scratch.jpg">
 </p>
+
+---
+
+[![Adam Foflonker profile views](https://u8views.com/api/v1/github/profiles/87928802/views/day-week-month-total-count.svg)](https://u8views.com/github/DnA-IntRicate)
