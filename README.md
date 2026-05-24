@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DnA-IntRicate&title=-Issues,-PullRequest,-Reviews&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DnA-IntRicate&title=-Issues&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
