@@ -3,7 +3,7 @@
 ---
 
 # [Hello There!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
-I'm Adam, a *computer engineering student* at the [University of Cape Town](https://www.uct.ac.za/), *game engine developer* and *the Founder & Team-Lead at Intricate Dev Team*. I specialize in C++, graphics programming, physics and databases. I am also proficient in Linux systems, servers, ethical hacking, networking and electronics.
+I'm Adam, a *computer engineering student* at the [University of Cape Town](https://www.uct.ac.za/), *game engine developer* and *the Founder & Team-Lead at Intrynzic Software* (formerly *Intricate-Dev-Team*). I specialize in C++, graphics and physics programming. I am also proficient in Linux systems, servers, ethical hacking, networking, databases, embedded systems and electronics.
 
 > At Intricate, we are currently working on the **Intricate Engine**, a C++ game engine that I started writing from scratch in 2021 that currently features:
 > - A [Vulkan](https://www.vulkan.org/) and [DirectX 11](https://en.wikipedia.org/wiki/Direct3D) Renderer
