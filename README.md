@@ -13,19 +13,22 @@ I'm Adam, a *computer engineering student* at the [University of Cape Town](http
 
 ## My Tech Stack
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,dotnet,python,java,go,lua,mysql,mariadb,yaml,json&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,dotnet,python,java,go,lua,mysql,mariadb,yaml,json,toml&theme=dark)
 
 ### Dev Tools
-![DevTools](https://go-skill-icons.vercel.app/api/icons?i=git,docker,bash,wsl,terminal,powershell,visualstudio,vscode,vim,neovim,cmake,gradle,maven,androidstudio,virtualbox,jupyter,matplotlib,numpy,pandas,scikitlearn&theme=dark)
+![DevTools](https://go-skill-icons.vercel.app/api/icons?i=git,docker,bash,wsl,terminal,powershell,visualstudio,vscode,vim,neovim,cmake,gradle,maven,androidstudio,virtualbox,jupyter&theme=dark)
 
 ### Other Tools and Environments
 ![OtherTools](https://go-skill-icons.vercel.app/api/icons?i=unity,blender,audacity,photoshop,premiere,obs,canva,word,excel,powerpoint,onenote,tmux,burpsuite,wireshark&theme=dark)
 
 ### Communication and Collaboration
-![OtherTools](https://go-skill-icons.vercel.app/api/icons?i=github,stackoverflow,teams,outlook,gmail,linkedin,discord,slack,notion,markdown,uml&theme=dark)
+![OtherTools](https://go-skill-icons.vercel.app/api/icons?i=github,stackoverflow,teams,outlook,sharepoint,gmail,linkedin,discord,slack,notion,markdown,uml,jira,confluence&theme=dark)
 
 ### Operating Systems
 ![OperatingSystems](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,kali,debian,ubuntu,mint,raspberrypi,android&theme=dark)
+
+### DevOps and Infrastructure
+![OperatingSystems](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,googleanalytics,githubactions,githubpages,pypi&theme=dark)
 
 ---
 
